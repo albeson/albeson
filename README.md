@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
   <a href="https://github.com/albeson">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=albeson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
 
 ![AWS Amazon](https://img.shields.io/badge/aws-amazon-orange?style=flat-square&logo=Amazon%20AWS)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -36,7 +39,7 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
+##
 <div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
