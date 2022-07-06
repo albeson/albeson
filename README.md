@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/albeson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albeson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=albeson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -35,3 +35,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
