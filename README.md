@@ -1,4 +1,4 @@
-# Olá, eu sou o Albeson 👋
+# Olá 👋
 
 Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em Linux.
 
@@ -44,6 +44,7 @@ Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em 
 
 ## Projetos
 
+- ⚽ [**Escalaí**](https://github.com/albeson/ks/tree/main/escalai) (Kukuya Studio): app que ajuda a montar o time no fantasy game do Brasileirão, a partir de informações públicas do jogo. O repositório [ks](https://github.com/albeson/ks) guarda as páginas públicas dos apps.
 - 🤖 [**agent_skills**](https://github.com/albeson/agent_skills): agente de IA em Python com skills, variantes por provedor de modelo e diagrama do fluxo OAuth2.
 - 🧠 [**prompt-eng**](https://github.com/albeson/prompt-eng): scripts em Python que comparam técnicas de engenharia de prompt, do prompt direto a chain, skeleton e tree of thought, até um agente ReAct.
 - 🐳 [**qBittorrent-filebot**](https://github.com/albeson/qBittorrent-filebot): imagem Docker (GPL-3.0) que junta o qBittorrent ao Filebot para renomear e organizar downloads no padrão do Plex.
