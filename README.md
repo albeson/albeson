@@ -1,6 +1,6 @@
 # Olá 👋
 
-Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em Linux.
+Desenvolvedor de software: aplicativos Android, backend em C# e nuvem, agentes de inteligência artificial e sistemas embarcados em Linux.
 
 ## No que estou trabalhando
 
@@ -14,6 +14,7 @@ Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em 
 
 **Aplicações e nuvem**
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,6 +22,12 @@ Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Inteligência artificial**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 
 **Bancos de dados**
 
@@ -52,7 +59,7 @@ Desenvolvedor de software, do backend em C# e nuvem até sistemas embarcados em 
 
 ## Fale comigo
 
-- 💬 Pergunte-me sobre: C#, Node.js, nuvem, Linux embarcado, USB e vídeo H.264.
+- 💬 Pergunte-me sobre: Android, agentes de IA, C#, Node.js, nuvem, Linux embarcado, USB e vídeo H.264.
 
 ## Contribuições
 
